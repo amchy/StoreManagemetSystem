@@ -5,4 +5,4 @@
  * @author amchy
  *
  */
-package Purchase;
+package purchase;

@@ -5,4 +5,4 @@
  * @author amchy
  *
  */
-package Inventory;
+package inventory;

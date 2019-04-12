@@ -33,6 +33,10 @@ public class string {
 	public static String Emp = "Employee";
 	public static String Rep = "Reports";
 	public static String LogOut = "Log-Out";
+	public static String regi = "Register";
+	public static String product = "Products";
+	public static String est = "Estimates";
+
 
 	
 	

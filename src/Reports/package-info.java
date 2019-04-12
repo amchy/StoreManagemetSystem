@@ -5,4 +5,4 @@
  * @author amchy
  *
  */
-package Resource.Images;
+package reports;
