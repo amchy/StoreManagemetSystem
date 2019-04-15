@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS `maxomus_ais` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE `maxomus_ais`;
+CREATE DATABASE IF NOT EXISTS `3idots_Store_Management_System` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE `3idots_Store_Management_System`;
 CREATE TABLE IF NOT EXISTS `approved_by` (
   `orderNo` varchar(25) COLLATE utf8mb4_unicode_ci NOT NULL,
   `approvedBy` int(11) NOT NULL,
