@@ -3,6 +3,7 @@ package Resource;
 public class string {
 	public static String title = "3Idots Store Management System";
 	public static String login = "Login";
+	public static String logout = "Log-out";
 	public static String pwd = "Password: ";
 	public static String uname = "User Name: ";
 	public static String invenli = "Inventory List";
@@ -33,6 +34,10 @@ public class string {
 	public static String Emp = "Employee";
 	public static String Rep = "Reports";
 	public static String LogOut = "Log-Out";
+	public static String regi = "Register";
+	public static String product = "Products";
+	public static String est = "Estimates";
+
 
 	
 	
